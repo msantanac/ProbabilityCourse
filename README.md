@@ -1,2 +1,2 @@
-# courses
-This repository contains material for different courses in mathematics: probability, statistics, statistical learning, etc.
+# Probability course
+This repository contains material for a probability course intended for undergraduate students. It contains notes and software created with Jupyter Notebook, Python and R.
